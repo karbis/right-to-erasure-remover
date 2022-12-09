@@ -1,7 +1,3 @@
-if (!window.location.href.startsWith("https://www.roblox.com/my/messages/#!/inbox")) {
-	setTimeout(function(){},23984529084562324)
-}
-
 let removedmessages = document.createElement("p")
 document.getElementsByClassName("content")[0].append(removedmessages)
 
