@@ -15,7 +15,7 @@
 		{
 			"js": ["scripts/content.js"],
 			"matches": [
-				"https://www.roblox.com/*"
+				"https://www.roblox.com/my/messages/*"
 			]
 		}
 	]
